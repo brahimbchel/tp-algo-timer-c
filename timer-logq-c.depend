@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670158313 source:c:\users\brahi\onedrive\desktop\algo\mini project\timer-prj\timer-logq-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
